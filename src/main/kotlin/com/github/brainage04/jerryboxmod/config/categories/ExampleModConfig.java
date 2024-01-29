@@ -1,6 +1,6 @@
-package com.example.config.categories;
+package com.github.brainage04.jerryboxmod.config.categories;
 
-import com.example.ExampleMod;
+import com.github.brainage04.jerryboxmod.ExampleMod;
 import com.google.gson.annotations.Expose;
 import io.github.moulberry.moulconfig.Config;
 import io.github.moulberry.moulconfig.annotations.Category;
